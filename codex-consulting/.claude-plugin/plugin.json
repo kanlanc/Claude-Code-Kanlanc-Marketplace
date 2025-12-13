@@ -1,0 +1,9 @@
+{
+  "name": "codex-consulting",
+  "version": "1.0.0",
+  "description": "Consult OpenAI Codex (gpt-5.2) for second opinions, code analysis, and expert insights via slash commands and skills",
+  "author": {
+    "name": "kanlanc"
+  },
+  "repository": "https://github.com/kanlanc/Claude-Code-Kanlanc-Marketplace"
+}
