@@ -1,0 +1,15 @@
+{
+  "name": "Kanlanc Plugin Marketplace",
+  "version": "1.0.0",
+  "description": "A collection of Claude Code plugins for enhanced development workflows",
+  "author": {
+    "name": "kanlanc"
+  },
+  "plugins": [
+    {
+      "name": "codex-consulting",
+      "path": "codex-consulting",
+      "description": "Consult OpenAI Codex (gpt-5.2) for second opinions, code analysis, and expert insights"
+    }
+  ]
+}
