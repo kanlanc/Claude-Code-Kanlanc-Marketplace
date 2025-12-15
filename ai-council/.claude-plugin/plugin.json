@@ -1,0 +1,9 @@
+{
+  "name": "ai-council",
+  "version": "1.0.0",
+  "description": "Multi-model AI council for ensemble consulting with Codex (GPT-5.2) and Gemini - query both models in parallel and synthesize their responses",
+  "author": {
+    "name": "kanlanc"
+  },
+  "repository": "https://github.com/kanlanc/Claude-Code-Kanlanc-Marketplace"
+}
