@@ -46,7 +46,7 @@ Use this agent for longer consultations where you want both AI perspectives with
 
    **Codex:**
    ```bash
-   codex exec --sandbox read-only -a never -c model_reasoning_effort="high" "<prompt with context>"
+   codex exec --sandbox read-only -c model_reasoning_effort="high" "<prompt with context>"
    ```
 
    **Gemini:**

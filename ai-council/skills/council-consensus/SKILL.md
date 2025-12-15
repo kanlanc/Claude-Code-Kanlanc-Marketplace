@@ -42,7 +42,7 @@ Multi-perspective analysis with both Codex and Gemini, each exploring for/agains
 
    **Codex:**
    ```bash
-   codex exec --sandbox read-only -a never -c model_reasoning_effort="high" "<prompt>"
+   codex exec --sandbox read-only -c model_reasoning_effort="high" "<prompt>"
    ```
 
    **Gemini:**

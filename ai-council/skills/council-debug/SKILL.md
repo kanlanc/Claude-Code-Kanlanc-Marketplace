@@ -49,7 +49,7 @@ Systematic debugging and root cause analysis with both Codex (GPT-5.2) and Gemin
 
    **Codex:**
    ```bash
-   codex exec --sandbox read-only -a never -c model_reasoning_effort="xhigh" "<prompt>"
+   codex exec --sandbox read-only -c model_reasoning_effort="xhigh" "<prompt>"
    ```
 
    **Gemini:**

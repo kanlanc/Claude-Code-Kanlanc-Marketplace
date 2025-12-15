@@ -87,11 +87,11 @@ The council provides synthesized responses in this format:
 
 ## Safety
 
-Both models run in read-only sandbox mode with auto-approve:
-- Codex: `--sandbox read-only -a never`
+Both models run in read-only sandbox mode:
+- Codex: `--sandbox read-only`
 - Gemini: `-s -y`
 
-This ensures no destructive commands can execute while avoiding manual prompts.
+This ensures no destructive commands can execute.
 
 ## Agent
 

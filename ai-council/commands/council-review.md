@@ -23,7 +23,7 @@ Have both Codex and Gemini review your staged git changes in parallel.
 
    **Codex:**
    ```bash
-   codex exec --sandbox read-only -a never -c model_reasoning_effort="high" "Review these git changes for bugs, security issues, and improvements:\n\n<diff>"
+   codex exec --sandbox read-only -c model_reasoning_effort="high" "Review these git changes for bugs, security issues, and improvements:\n\n<diff>"
    ```
 
    **Gemini:**

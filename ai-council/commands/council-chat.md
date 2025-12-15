@@ -25,7 +25,7 @@ Query both Codex and Gemini in parallel, then synthesize their responses.
 
    **Codex:**
    ```bash
-   codex exec --sandbox read-only -a never -c model_reasoning_effort="<level>" "<question>"
+   codex exec --sandbox read-only -c model_reasoning_effort="<level>" "<question>"
    ```
 
    **Gemini:**

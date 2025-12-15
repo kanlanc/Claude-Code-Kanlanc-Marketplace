@@ -29,7 +29,7 @@ If user mentions "deep" or "thorough", use xhigh.
 
    **Codex:**
    ```bash
-   codex exec --sandbox read-only -a never -c model_reasoning_effort="high" "<question with context>"
+   codex exec --sandbox read-only -c model_reasoning_effort="high" "<question with context>"
    ```
 
    **Gemini:**

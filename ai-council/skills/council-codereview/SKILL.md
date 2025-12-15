@@ -49,7 +49,7 @@ Comprehensive code review with both Codex (GPT-5.2) and Gemini for quality, secu
 
    **Codex:**
    ```bash
-   codex exec --sandbox read-only -a never -c model_reasoning_effort="high" "<prompt>"
+   codex exec --sandbox read-only -c model_reasoning_effort="high" "<prompt>"
    ```
 
    **Gemini:**
