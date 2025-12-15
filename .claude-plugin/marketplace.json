@@ -1,6 +1,6 @@
 {
   "name": "kanlanc-marketplace",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A collection of Claude Code plugins for enhanced development workflows",
   "owner": {
     "name": "kanlanc"
@@ -10,6 +10,11 @@
       "name": "codex-consulting",
       "source": "./codex-consulting",
       "description": "Consult OpenAI Codex (gpt-5.2) for second opinions, code analysis, and expert insights"
+    },
+    {
+      "name": "ai-council",
+      "source": "./ai-council",
+      "description": "Multi-model AI council for ensemble consulting with Codex (GPT-5.2) and Gemini"
     }
   ]
 }
